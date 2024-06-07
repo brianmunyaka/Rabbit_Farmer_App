@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285953332230",
+    "project_id": "rabbitfarmerapp",
+    "storage_bucket": "rabbitfarmerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285953332230:android:922def873e06ff8951df87",
+        "android_client_info": {
+          "package_name": "com.example.rabbitfarmerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEVA3LLcedhHE7NDKtkjdniI6WfbOp0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
